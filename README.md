@@ -1,10 +1,13 @@
-```markdown
+
 # Remove Background Flask App
 
 A simple Flask app to remove the background of an image using [Rembg](https://github.com/danielgatis/rembg).
 
 ## Run Locally (Windows)
+Just Click on Install.bat
+and FOr Start app just click on Start.bat
 
+## Run Locally (Windows via terminal)
 ```bash
 pip install -r requirements.txt
 python app.py
